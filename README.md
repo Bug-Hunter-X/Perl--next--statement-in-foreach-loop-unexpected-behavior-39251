@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Perl related to the use of the 'next' keyword in a foreach loop. The bug causes the loop to behave unexpectedly. The solution file provides a corrected version of the code.
